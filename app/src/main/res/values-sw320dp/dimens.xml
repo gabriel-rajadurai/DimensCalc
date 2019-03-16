@@ -1,0 +1,14 @@
+<resources>
+  <dimen name="dpValue">
+    320.40dp
+  </dimen>
+  <dimen name="dpFactor">
+    0.89dp
+  </dimen>
+  <dimen name="txt_Size">
+    16.02sp
+  </dimen>
+  <dimen name="tbar_height">
+    44.50dp
+  </dimen>
+</resources>
